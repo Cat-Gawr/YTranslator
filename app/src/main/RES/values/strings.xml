@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+
+
+
+<resources>
+    <string name="app_name" translatable="false">RTranslator</string>
+
+    <string name="mic">mic</string>
+    <string name="btHeadset">bt-headset</string>
+    <string name="exit">exit</string>
+    <string name="retry">retry</string>
+    <string name="continue_without_tts">continue</string>
+    <string name="delete">delete</string>
+    <string name="no_devices">no devices</string>
+    <string name="available">available</string>
+    <string name="not_available">not available</string>
+    <string name="loading">loading…</string>
+    <string name="forward">forward</string>
+    <string name="no_graph_data">No usage data present</string>
+    <string name="conversation">Conversation</string>
+    <string name="connection">Connection</string>
+    <string name="translate">Translate</string>
+    <string name="fix">fix</string>
+    <string name="automatic">Automatic</string>
+    <string name="chat">Chat</string>
+    <string name="select_tts">Select TTS</string>
+
+    <string name="notification_channel_name">use in background notification</string>
+
+    <string name="age_check_box">I declare that I am at least 14 years old</string>
+    <string name="privacy_check_box">I declare that I have read the <a href="https://github.com/niedev/RTranslator/blob/v2.00/privacy/Privacy_Policy_en.md">privacy policy</a></string>
+
+    <string name="toast_working_background">RTranslator will work in background</string>
+    <string name="toast_download_completed">Download completed</string>
+    <string name="toast_download_error">There was an error with the download, open RTranslator to try again</string>
+    <string name="toast_missing_notification_permission">To ensure this mode works properly in the background, enable notifications</string>
+
+    <string name="dialog_confirm_delete">Confirm cancellation</string>
+    <string name="dialog_confirm_exit">Confirm exit</string>
+    <string name="dialog_confirm_disconnection">Are you sure you want to disconnect from&#160;</string>
+    <string name="dialog_confirm_connection">Are you sure to connect with&#160;</string>
+    <string name="dialog_confirm_connection_request">Accept connection request from&#160;</string>
+    <string name="dialog_select_file">Select file</string>
+    <string name="dialog_select_personal_language">Select personal language</string>
+    <string name="dialog_select_first_language">Select primary language</string>
+    <string name="dialog_select_second_language">Select secondary language</string>
+    <string name="dialog_insert_name">Insert your name</string>
+
+    <string name="menu_image_select_from_gallery">Select from gallery</string>
+    <string name="menu_image_remove">Remove</string>
+
+    <string name="hint_edit_text_message">Write a message</string>
+    <string name="hint_user_name">Name</string>
+    <string name="hint_text">Insert text</string>
+
+    <string name="error_missing_location_permissions">It is not possible to use the Conversation mode without location and bluetooth permissions, go to the settings to grant them, or reinstall the app</string>
+    <string name="error_missing_mic_permissions">Without the microphone permission the voice recognition does not work, go to the settings to grant the permission or reinstall the app</string>
+    <string name="error_tts_toast">Missing tts</string>
+    <string name="error_tts">There was an error with the tts initialization, do you want to continue without tts?</string>
+    <string name="error_missing_tts">In this device there is no google tts engine, download it to be able to use the tts</string>
+    <string name="error_wrong_api_key_file">The key file to use the API does not work, insert a working key file</string>
+    <string name="error_missing_api_key_file">Enter the key file to use the API</string>
+    <string name="error_missing_bluetooth_le">It is not possible to use the Conversation mode because this device does not have Bluetooth Low Energy</string>
+    <string name="error_internet_lack_loading">To start RTranslator an internet connection is required, check your connection</string>
+    <string name="error_internet_lack_accessing">To perform the operation an internet connection is required, check your connection</string>
+    <string name="error_internet_lack_services">Unable to translate message, check internet connection</string>
+    <string name="error_internet_lack_loading_languages">To view the languages you need an internet connection, check your connection and try again</string>
+    <string name="error_connection_rejected">refused the connection request</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_starting_search">Error starting search</string>
+    <string name="error_cannot_interact_connection">cannot interact with devices during connection</string>
+    <string name="error_cannot_interact_disconnection">cannot interact with devices during disconnection</string>
+    <string name="error_wait_initialization">Wait for initialization</string>
+    <string name="error_invalid_key">Enter a valid key file</string>
+    <string name="error_picking_file">Error while taking the file, try again</string>
+    <string name="error_selecting_image">Error during image selection, use another gallery to select it</string>
+    <string name="error_wait_download_end">Wait download finishes</string>
+    <string name="error_age_unchecked">You must be at least 14 years old to use the app</string>
+    <string name="error_privacy_unchecked">You must have read the privacy policy to use the app</string>
+    <string name="error_missing_username">Insert a name</string>
+    <string name="error_wrong_username">The text contains illegal characters, only the following characters are allowed: </string>
+    <string name="error_models_loading">There was an error loading the files of the models for translation and speech recognition, probably some files are corrupted, try restarting the app, if the problem persists then press the fix button and only the corrupted files will be re-downloaded.</string>
+    <string name="error_download">Error in the download, please ensure you have internet connection and retry:</string>
+    <string name="error_transfer">Error in the transfer of the downloaded file from external to internal memory, please ensure you have not removed an sd card or other external storage devices and retry keeping the app open:</string>
+    <string name="error_ram">Your device has less than 6GB of RAM, the app needs at least 6GB of RAM to work, you can still try to use it, but it will most likely crash.</string>
+    <string name="error_storage">Low storage space, the download may fail</string>
+
+    <string name="title_graph">DOLLARS (USD) SPENT EVERY HOUR</string>
+    <string name="title_image_selector">user image</string>
+
+    <string name="home_walkietalkie_mode">WalkieTalkie Mode</string>
+    <string name="home_conversation_mode">Conversation Mode</string>
+    <string name="title_fragment_conversation">Conversation</string>
+    <string name="title_fragment_walkie_talkie">WalkieTalkie</string>
+    <string name="title_fragment_notice">Notice</string>
+    <string name="title_fragment_user_data">Insert your data</string>
+    <string name="title_fragment_download">Download of models</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_credit">APIs management</string>
+
+    <string name="header_recents_peers">recents</string>
+    <string name="header_found_peers">found</string>
+    <string name="header_connected_peers">connected</string>
+    <string name="header_key">APIs key</string>
+
+    <string name="description_cost">The voice recognition rounds the cost of each request to the nearest multiple of 15 seconds, the average total cost (both translator and voice recognition), without taking into account the rounding, is 2.5 dollars per hour, also for WalkieTalkie must add the language detection costs to the translation, to learn more read the <a href="https://github.com/niedev/RTranslator">tutorial</a></string>
+    <string name="description_discovery">This screen will search and make us visible to other devices that use RTranslator
+        to be able to establish a connection with them and start the conversation</string>
+    <string name="description_key">To find out how to get the key file read the <a href="https://github.com/niedev/RTranslator">tutorial</a></string>
+    <string name="description_fragment_user_data">Your name will be displayed by all nearby devices, while your profile picture will only be shown on devices with which you have already had conversations</string>
+    <string name="description_fragment_download">Now RTranslator will download the neural network models necessary for translation and speech recognition, once finished you can start using the app (even offline).</string>
+    <string name="description_conversation">The Conversation mode is the main feature of RTranslator, it allows you to translate a conversation between several people in real time, for a better experience it is recommended to connect bluetooth headphones to the phone,
+        furthermore the application will continue to work also in background and with the phone on standby (however, some phones may have performance issues when the app runs in the background)</string>
+    <string name="description_walkie_talkie">WalkieTalkie mode is the secondary functionality of RTranslator, it does not allow real-time translation but is designed to work with just one phone,
+        it automatically detects and translates a speech in a language into another language, and the application will continue to work in background and with the phone on standby</string>
+    <string name="description_notice">RTranslator uses <a href="https://openai.com/index/whisper/">OpenAi\'s Whisper</a> for speech recognition and <a href="https://ai.meta.com/research/no-language-left-behind/">Meta\'s NLLB</a> for translations, these models require quite a bit of power and at least 6GB of RAM to run, so make sure you\'re using a modern smartphone to avoid slowdowns or crashes. For more info on RTranslator visit the GitHub project of the app <a href="https://github.com/niedev/RTranslator">here</a></string>
+    <string name="description_download">Downloading %1$s</string>
+    <string name="description_transfer">Transferring %1$s in internal memory</string>
+    <string name="description_integrity_check">Checking integrity of %1$s</string>
+    <string name="description_tts">To speak, RTranslator uses the system\'s default TTS engine, the recommended TTS is the <a href="https://play.google.com/store/apps/details?id=com.google.android.tts">Google TTS</a>, but you can choose the one you prefer, to select it, click on the button below</string>
+
+    <string name="preference_header_language">Language</string>
+    <string name="preference_header_output">Output</string>
+    <string name="preference_header_input">Input</string>
+    <string name="preference_header_advanced">Advanced</string>
+
+    <string name="preference_title_mic_sensitivity">Microphone sensitivity</string>
+    <string name="preference_title_languages_quality">Support low quality languages</string>
+    <string name="preference_title_support_tts_quality">Support languages with low quality tts</string>
+    <string name="preference_title_language">Personal language</string>
+    <string name="preference_title_tts">Text to speech</string>
+    <string name="preference_title_speech_timeout">End of voice timeout</string>
+    <string name="preference_title_prev_voice_duration">Voice anticipation duration</string>
+    <string name="preference_title_beam_size">Beam Search (beta)</string>
+
+    <string name="preference_description_mic_sensitivity">Select the volume level you need to start and maintain voice recognition</string>
+    <string name="preference_description_languages_quality">It allow to also supports languages that have low translation or speech recognition quality</string>
+    <string name="preference_description_support_tts_quality">It allow to also supports languages that have a low quality speech synthesizer</string>
+    <string name="preference_description_tts">System settings of tts, an eventual change of the preferred engine will be applied only after the restart of the app</string>
+    <string name="preference_description_speech_timeout">Select the time after you stop talking to send the transcribed text</string>
+    <string name="preference_description_prev_voice_duration">Select the length of the recording before you start speaking that will be included in the voice recognition</string>
+    <string name="preference_description_beam_size">Set the beam size of the beam search algorithm, to improve translation quality at the expense of speed (only for text translation)</string>
+    <string name="conversation_mode" >Conversation</string>
+    <string name="conversation_mode_running" >Conversation mode is running...</string>
+    <string name="walkietalkie_mode" >WalkieTalkie</string>
+    <string name="walkietalkie_mode_running" >WalkieTalkie mode is running...</string>
+
+</resources>
