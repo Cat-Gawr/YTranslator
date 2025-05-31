@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+    <integer name="durationShort">200</integer>
+    <integer name="durationSlideIn">300</integer>
+    <integer name="durationSlideOut">350</integer>
+    <integer name="durationAppear">50</integer>
+    <integer name="durationExtend">250</integer>
+    <integer name="durationRotate">300</integer>
+    <integer name="durationExpandVertically">100</integer>
+    <integer name="durationVeryLong">800</integer>
+    <integer name="durationLong">600</integer>
+    <integer name="durationStandard">300</integer>
+</resources>
