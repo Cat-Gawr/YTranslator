@@ -3,6 +3,12 @@
 ----------------------------
 
 <h3 align="center"> LO DIRò IN FUTURO </h3>
+>[!CAUTION]
+>se utilizzerete docker è ancora
+>
+>meglio per la compatiblità e l'uso facile del software Ytranslator
+
+
 
 
 
