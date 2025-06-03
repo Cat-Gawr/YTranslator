@@ -19,6 +19,7 @@ il programma NON sarà responsabile per i danni che potrebbero causare:
 3. per fare fama e soldi con diritto d'autore user e non da Cat-Gawr
 4. la morte del oggetto elettronico usato come Telefoni, Tablet o PC di fascia old low-end level, per maggior informazioni, aspettare
 
+<h5>security.md code LK: sha256:9708b5eb43c5044f6c0210a3760abf341e3267e87809554402be52469c982d7d</h5>
 
 <h2>prime parti</h2>
 
