@@ -14,7 +14,7 @@
 
 ▷ il programma non prende alcun minimo dato come geolocalizzazione del telefono , IP(IPv4 o IPv6 ) , numero telefonico,
 il programma NON sarà responsabile per i danni che potrebbero causare:
-1. copia falsa con all'interno R.A.T o malware
+1. copia falsa con all'interno R.A.T o malware 
 2. dati rubati e messo su doxbin.org o .net o .com
 3. per fare fama e soldi con diritto d'autore user e non da Cat-Gawr
 4. la morte del oggetto elettronico usato come Telefoni, Tablet o PC di fascia old low-end level, per maggior informazioni, aspettare
