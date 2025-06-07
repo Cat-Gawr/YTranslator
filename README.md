@@ -1,4 +1,4 @@
-# YTranslator
+<h1 align="center"> Ytranslator</h1>
 
 ----------------------------
 
@@ -30,15 +30,17 @@ Buildbot | Voto
 -------- |-----
 
 <h3>Android</h3> Build Passata ✅  
-<h4>Voto •  10/ 10</h4>
+<h4>Voto • 9.78 / 10</h4>
 
 
-<h3>IOS(SOT)</h3>  Build NON passata
-<h4>Voto • 1.98 / 10</h4>
-<h5>cercherò di farlo in formato .apu</h5>
+<h3>IoS </h3>   Build non passata ❌  
+<h4>Voto • 2.58 / 10</h4>
+non si può mettere .apu
+
+
 
 # iDE : 
-1 . ?
+1 . Ytranslator verrà rilasciata su github con varri aggiornamenti o piccoli aggiornamenti
 
 2 . IDE in cui, puoi modificare il programma ( o meno )   : 
 
@@ -84,9 +86,121 @@ Buildbot | Voto
       
     
     - AppCode
+    
+    - CLion
+    
+    - DataGrip
+    
+    - Rider
+    
+    - GoLand
+    
+    - PyCharm Edu( solo per Linux , non cambia nulla se è su un'altro OS )
+    
+    - Brackets
+    
+    - Vim{ su Linux e MacOS } 
+
+         della serie : 
+
+         1. LazyVim
+
+         2. Nvim
+
+         
+          
+    
+    - Emacs
+    
+    - nano
+    
+    - Geany
+    
+    - Bluefish
+    
+    - Kate
+    
+    - Code::Blocks
+    
+    - Anjuta
+    
+    - KDevelop
+    
+    - Lazarus
+    
+    - MonoDevelop   
+
+
+
+>[!CAUTION]
+>
+>per Visual Basic ( VS B ) non sarà possiile modificare l'app .
+>
+>per maggiore problemi non usare Vs B ma VsCode o VIM
+
+
+
+    
+( prossimi in futuro  ⏳)
+
+------------------------------------------------
+    
+# ide che consiglio:
+
+   - Visual Studio Code
+
+   - Visual Studio Code - insiders
+
+    - Visual Studio year ( ovvero Visual Studio 2022 ecc..)
+      - il Fork di VsCode ovvero  Cursor 
+      - il Fork di VsCode ovvero  VSCodium
+
+  
+
+  - Sublime Text
+    
+  - Notepad++
+    
+  - Atom  ( attenzione , se in atom è difficile NON farlo ! )
+    
+  - Eclipse
+    
+  - IntelliJ IDEA
+     
+     - NetBeans 
+
+---------------------------------------------
+
+OS:
+
+tutti i Sistemi operativi con questo programma :
+
+<h5>Android</h5>
+
+1 - Android 10
+
+2 - Android 11
+
+3 - Android 12
+
+4 - Android 13
+
+5 - Android 14
+
+6 - Android 15 e tutte le  versioni superiore e le v-beta
+
+<h5>IOS</h5>
+
+1 - il programma non è ancora compatibile con IoS , da aspettare ancora 
 
 
 
 >[!WARNING]
 >
 >questa è la prima parte, poi ovviamnete ci saranno altre parti
+
+
+---------------------------------------------------------
+
+
+<h5 align="center">Progetto Copyright ~ Konata 2025 , si accetta tutti le versioni di Android , tranne IoS </h5>
