@@ -129,45 +129,24 @@ non si può mettere .apu
     - Lazarus
     
     - MonoDevelop   
-
+    
+    - CodeLite      
+    
+    - JCreator
+    
+    - DrJava
+    
+    - Notepadqq
+    
+    - Gedit
+    
+    - Kate
+    
+    - KWrite ( solo ed escusivamente su Linux )
 
 
 >[!CAUTION]
->
->per Visual Basic ( VS B ) non sarà possiile modificare l'app .
->
->per maggiore problemi non usare Vs B ma VsCode o VIM
-
-
-
-    
-( prossimi in futuro  ⏳)
-
-------------------------------------------------
-    
-# ide che consiglio:
-
-   - Visual Studio Code
-
-   - Visual Studio Code - insiders
-
-    - Visual Studio year ( ovvero Visual Studio 2022 ecc..)
-      - il Fork di VsCode ovvero  Cursor 
-      - il Fork di VsCode ovvero  VSCodium
-
-  
-
-  - Sublime Text
-    
-  - Notepad++
-    
-  - Atom  ( attenzione , se in atom è difficile NON farlo ! )
-    
-  - Eclipse
-    
-  - IntelliJ IDEA
-     
-     - NetBeans 
+>il programma non sarà disponibile per BSD, quindi per modifiacrlo utilizzate un altro OS
 
 ---------------------------------------------
 
