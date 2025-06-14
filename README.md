@@ -172,7 +172,29 @@ tutti i Sistemi operativi con questo programma :
 
 1 - il programma non è ancora compatibile con IoS , da aspettare ancora 
 
+-------------------------------------------------------
 
+<h3>clonare su Windows :  </h3>
+
+    git clone https://github.com/Cat-Gawr/YTranslator.git
+    (solo se, avete scaricate tramite PowerShello CMD git)
+<h3>clonare su Linux : </h3>
+
+    sudo apt install git - Ubuntu and Debian | sudo pacman -S git - Arch  | 
+    emerge dev-vcs/git
+    git clone https://git.kernel.org/pub/scm/git/git.git
+    cd git
+    make
+    sudo make install - Gentoo linux
+
+    git clone https://github.com/Cat-Gawr/YTranslator.git
+    cd YTranslator/
+    mkdir TY7-pre qwe  
+    vim  | :w apri_file.py
+    vim apri_file.py (copaiarlo nel issue )
+    chmod +x apri_file.py
+    python3 apri_file.py /YTranslator.git
+    
 
 >[!WARNING]
 >
